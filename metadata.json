@@ -1,0 +1,5 @@
+{
+  "name": "FraudLens",
+  "description": "Full-stack AI-powered financial fraud detection, investigation, and risk analysis platform.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
